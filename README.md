@@ -3,6 +3,6 @@ A project to create a device that shuffles the four wind tiles in mahjong
 
 ## Team Members  
 Wille Backman  
-Mishell  
+Mishell Tigse  
 Risto Paatsama  
 Ville Lehtonen
